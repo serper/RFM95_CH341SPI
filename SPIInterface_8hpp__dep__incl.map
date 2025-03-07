@@ -1,0 +1,21 @@
+<map id="include/SPIInterface.hpp" name="include/SPIInterface.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,363,31"/>
+<area shape="rect" id="Node000002" href="$CH341SPI_8hpp.html" title="Header file for the CH341SPI class, which implements the SPIInterface for the CH341 USB to SPI adapte..." alt="" coords="191,79,355,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,44,276,79,271,79,271,44"/>
+<area shape="rect" id="Node000003" href="$RFM95_8hpp.html" title="Header file for RFM95 LoRa Module Handler." alt="" coords="47,152,193,177"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="239,40,209,58,181,81,149,119,128,153,124,150,145,116,177,77,206,54,236,35"/>
+<area shape="rect" id="Node000004" href="$RFM95_8cpp.html" title="Implementation of the RFM95 LoRa module interface." alt="" coords="5,225,123,251"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="210,37,164,54,115,78,71,111,52,131,37,153,33,171,37,190,56,224,52,227,32,192,27,171,32,151,48,127,67,107,113,73,162,49,208,32"/>
+<area shape="rect" id="Node000006" href="$SPIFactory_8cpp.html" title=" " alt="" coords="377,152,514,177"/>
+<area shape="poly" id="edge11_Node000001_Node000006" title=" " alt="" coords="308,36,368,77,408,115,438,150,434,153,405,119,365,81,305,40"/>
+<area shape="rect" id="Node000007" href="$LinuxSPI_8hpp.html" title=" " alt="" coords="431,79,587,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="325,32,472,76,470,81,324,37"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,112,146,154,144,149,235,107"/>
+<area shape="rect" id="Node000005" href="$CH341SPI_8cpp.html" title="Implementation of the CH341SPI class for SPI communication using the CH341 USB&#45;SPI adapter." alt="" coords="218,152,353,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="280,117,286,151,281,152,275,118"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="314,107,418,149,416,154,312,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,190,75,227,71,224,100,187"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="492,116,458,154,454,150,488,113"/>
+<area shape="rect" id="Node000008" href="$LinuxSPI_8cpp.html" title=" " alt="" coords="538,152,665,177"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="536,110,588,150,585,154,533,114"/>
+</map>
